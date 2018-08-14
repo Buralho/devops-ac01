@@ -1,0 +1,6 @@
+Design
+
+Serão necessarios:
+ -Banco de Dados para abrigar os dados cadastrados pelos úsuarios. Uma interface que permit
+ -Software com interface amigavel que permita que o usuario cadastre dados no banco e consulte-os quando necessário.
+ -Conexão entre banco de dados, software e impressora.
