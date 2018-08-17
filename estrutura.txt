@@ -1,5 +1,0 @@
-Estrutura 
-
-Criação / identificador / banco de dados / funções
-Acesso / cadastro / logins / perfis de usuarios 
-
