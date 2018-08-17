@@ -4,17 +4,17 @@ Analisar pedido do cliente e verificar requisitos
 
 DESIGN
 
-Ser„o necessarios:
- -Banco de Dados para abrigar os dados cadastrados pelos ˙suarios. Uma interface que permit
- -Software com interface amigavel que permita que o usuario cadastre dados no banco e consulte-os quando necess·rio.
- -Conex„o entre banco de dados, software e impressora.
+Ser√£o necessarios:
+ -Banco de Dados para abrigar os dados cadastrados pelos √∫suarios. Uma interface que permit
+ -Software com interface amigavel que permita que o usuario cadastre dados no banco e consulte-os quando necess√°rio.
+ -Conex√£o entre banco de dados, software e impressora.
 
-PROGRAMA«√O
+PROGRAMA√á√ÉO
 
 Cadastro: Programa recebe os dados / envia para o banco de dados / salva os dados
+Impress√£o: Programa recebe o perdido / consulta as informa√ß√µes no banco de dados / solicita a impress√£o para o equipamento
+Nome:William Chagas Silva  RA: 1800578  User:WilliamCS98
 
-Impress„o: Programa recebe o perdido / consulta as informaÁıes no banco de dados / solicita a impress„o para o equipamento
+OPERA√á√ÉO
 
-OPERA«√O
-
-TReinar operaÁ„o e preparar para receber a ferramenta
+TReinar opera√ß√£o e preparar para receber a ferramenta
