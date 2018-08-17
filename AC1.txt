@@ -1,0 +1,26 @@
+ANALISE
+
+Analisar pedido do cliente e verificar requisitos
+Nome Cesar Ricardo RA 1801440 User cesarbragaoliveira
+
+DESIGN
+
+Serão necessarios:
+ -Banco de Dados para abrigar os dados cadastrados pelos úsuarios. Uma interface que permit
+ -Software com interface amigavel que permita que o usuario cadastre dados no banco e consulte-os quando necessário.
+ -Conexão entre banco de dados, software e impressora.
+ Nome: Vinicius Ribeiro de Lima RA:1801174 User:ViniLiima
+
+PROGRAMAÇÃO
+
+Cadastro: Programa recebe os dados / envia para o banco de dados / salva os dados
+Impressão: Programa recebe o perdido / consulta as informações no banco de dados / solicita a impressão para o equipamento
+Nome:William Chagas Silva  RA: 1800578  User:WilliamCS98
+
+TESTE
+Desenvolver uma ambiente de testes para testar o sistema em capacidade maxima.
+
+OPERAÇÃO
+
+TReinar operação e preparar para receber a ferramenta
+Nome: Rafael Buralho Costa - RA: 1520166 : Usuario: Buralho
