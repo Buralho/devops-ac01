@@ -1,0 +1,20 @@
+ANALISE
+
+Analisar pedido do cliente e verificar requisitos
+
+DESIGN
+
+Serão necessarios:
+ -Banco de Dados para abrigar os dados cadastrados pelos úsuarios. Uma interface que permit
+ -Software com interface amigavel que permita que o usuario cadastre dados no banco e consulte-os quando necessário.
+ -Conexão entre banco de dados, software e impressora.
+
+PROGRAMAÇÃO
+
+Cadastro: Programa recebe os dados / envia para o banco de dados / salva os dados
+
+Impressão: Programa recebe o perdido / consulta as informações no banco de dados / solicita a impressão para o equipamento
+
+OPERAÇÃO
+
+TReinar operação e preparar para receber a ferramenta
